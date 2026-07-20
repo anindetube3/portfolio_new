@@ -7,7 +7,7 @@ var AI_PROJECTS = {
     title: "Terry Sports Club \u2014 비주얼 프로젝트",
     desc:  "AI로 만든 운동화를 중심으로, 제품 클로즈업부터 착용 화보까지 다양한 이미지를 제작한 프로젝트입니다. ComfyUI를 활용해 운동화의 형태와 디테일을 유지하면서 스튜디오 컷, 로우 앵글, 패션 화보 등 여러 연출을 시도했고, AI 영상 편집을 더해 이미지가 움직이는 방식까지 함께 실험했습니다.",
     items: [
-      {type:"video", yt:"svWCMnKISWg", portrait:true,  title:"READY TO MOVE", desc:"운동화를 신는 순간부터 움직임이 시작되는 흐름을 담아, 편안함과 활동적인 무드를 강조한 스포츠 영상."},
+      {type:"video", yt:"JyWLaZs5bbo", portrait:true,  title:"READY TO MOVE", desc:"운동화를 신는 순간부터 움직임이 시작되는 흐름을 담아, 편안함과 활동적인 무드를 강조한 스포츠 영상."},
       {type:"image", src:"assets/product01_2.jpg", title:"AIR STEP", desc:"푸른 하늘을 배경으로, 가볍고 역동적인 움직임과 운동화의 존재감을 강조한 스포츠 비주얼."},
       {type:"image", src:"assets/product01_3.jpg", title:"CLEAN ATTITUDE", desc:"깔끔한 스튜디오 배경과 과감한 원근감을 활용해 운동화의 볼륨감과 편안한 스포티 무드를 강조한 패션 화보."}
     ]
@@ -17,7 +17,7 @@ var AI_PROJECTS = {
     title: "Terry Serum \u2014 비주얼 프로젝트",
     desc:  "AI로 만든 세럼 제품을 중심으로, 맑고 부드러운 분위기의 뷰티 이미지를 제작한 프로젝트입니다. 투명한 용기와 촉촉한 제형이 잘 드러나도록 따뜻한 피치 톤의 조명과 다양한 구도를 활용해 제품 단독 컷부터 감각적인 광고 이미지까지 자연스럽게 확장했습니다.",
     items: [
-     {type:"video", yt:"ZDru1uRowGs", portrait:true,  title:"A TOUCH OF GLOW", desc:"세럼의 투명한 제형과 부드러운 사용감을 클로즈업으로 담아낸 감각적인 뷰티 영상."},
+     {type:"video", yt:"x06R-NnfeyY", portrait:true,  title:"A TOUCH OF GLOW", desc:"세럼의 투명한 제형과 부드러운 사용감을 클로즈업으로 담아낸 감각적인 뷰티 영상."},
      {type:"image", src:"assets/Product02_2.jpg", title:"DROP OF GLOW", desc:"따뜻한 피치 톤과 투명한 세럼 방울로 촉촉한 질감과 은은한 광택을 강조한 뷰티 비주얼."},
      {type:"image", src:"assets/Product02_3.jpg", title:"SOFT GLOW", desc:"부드러운 피치 톤과 깊이감 있는 아웃포커싱으로 세럼의 맑고 포근한 이미지를 담은 뷰티 비주얼."}
     ]
