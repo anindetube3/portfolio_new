@@ -27,7 +27,7 @@ var AI_PROJECTS = {
     title: "Terry Burger \u2014 비주얼 프로젝트",
     desc:  "AI로 만든 버거 브랜드를 중심으로, 밝고 유쾌한 분위기의 푸드 광고 이미지를 제작한 프로젝트입니다. 따뜻한 치즈 컬러와 선명한 조명을 활용해 버거의 바삭한 식감과 풍성한 구성을 강조했으며, 제품 촬영 장면부터 패키지와 매장 이미지, 직접 먹는 순간까지 사진과 영상으로 자연스럽게 이어지도록 구성했습니다.",
     items: [
-     {type:"video", yt:"Dy2gPsvbugk", portrait:true,  title:"BITE THE MOMENT", desc:"버거를 촬영하는 순간부터 한입 베어 무는 장면까지 담아, 바삭한 식감과 먹음직스러운 비주얼을 강조한 푸드 광고 영상."},
+     {type:"video", yt:"3yZa-1pbh3Y", portrait:true,  title:"BITE THE MOMENT", desc:"버거를 촬영하는 순간부터 한입 베어 무는 장면까지 담아, 바삭한 식감과 먹음직스러운 비주얼을 강조한 푸드 광고 영상."},
      {type:"image", src:"assets/product03_2.jpg", title:"HOLD THE BITE", desc:"따뜻한 치즈 컬러와 과감한 타이포그래피로 버거의 풍성함과 바삭한 식감을 강조한 푸드 광고 비주얼."},
      {type:"image", src:"assets/Product03_3.jpg", title:"READY TO GO", desc:"따뜻한 매장 조명과 테이크아웃 패키지를 활용해, 버거를 기다리는 순간의 편안한 분위기와 브랜드 감성을 담은 푸드 비주얼."}
     ]
