@@ -18,6 +18,7 @@ var AI_PROJECTS = {
     desc:  "AI로 만든 세럼 제품을 중심으로, 맑고 부드러운 분위기의 뷰티 이미지를 제작한 프로젝트입니다. 투명한 용기와 촉촉한 제형이 잘 드러나도록 따뜻한 피치 톤의 조명과 다양한 구도를 활용해 제품 단독 컷부터 감각적인 광고 이미지까지 자연스럽게 확장했습니다.",
     items: [
      {type:"video", yt:"x06R-NnfeyY", portrait:true,  title:"A TOUCH OF GLOW", desc:"세럼의 투명한 제형과 부드러운 사용감을 클로즈업으로 담아낸 감각적인 뷰티 영상."},
+     {type:"video", yt:"mCFICkndSwo", portrait:true,  title:"UGC Video", desc:"세럼의 투명한 제형과 부드러운 사용감을 클로즈업으로 담아낸 감각적인 뷰티 영상."},
      {type:"image", src:"assets/Product02_2.jpg", title:"DROP OF GLOW", desc:"따뜻한 피치 톤과 투명한 세럼 방울로 촉촉한 질감과 은은한 광택을 강조한 뷰티 비주얼."},
      {type:"image", src:"assets/Product02_3.jpg", title:"SOFT GLOW", desc:"부드러운 피치 톤과 깊이감 있는 아웃포커싱으로 세럼의 맑고 포근한 이미지를 담은 뷰티 비주얼."}
     ]
@@ -36,6 +37,16 @@ var AI_PROJECTS = {
     "04": {
     tag:   "AI 프로젝트 · Higgsfield",
     title: "Terry Chips \u2014 비주얼 프로젝트",
+    desc:  "AI로 만든 감자칩 브랜드를 중심으로, 밝고 경쾌한 분위기의 스낵 광고 영상을 제작한 프로젝트입니다. 감자가 얇게 썰려 바삭한 칩으로 완성되는 과정과 패키지에서 칩이 터져 나오는 장면을 빠른 리듬으로 담아, 제품의 식감과 브랜드의 유쾌한 에너지를 표현했습니다.",
+    items: [
+     {type:"video", yt:"AGHOs4n79Vc", portrait:true,  title:"CRUNCH IN MOTION", desc:"감자가 바삭한 칩으로 완성되고 패키지 밖으로 터져 나오는 모습을 담아, 경쾌한 움직임과 바삭한 식감을 강조한 스낵 광고 영상."}
+     
+    ]
+  },
+
+      "05": {
+    tag:   "AI 프로젝트 · Higgsfield",
+    title: "Terry Food \u2014 비주얼 프로젝트",
     desc:  "AI로 만든 감자칩 브랜드를 중심으로, 밝고 경쾌한 분위기의 스낵 광고 영상을 제작한 프로젝트입니다. 감자가 얇게 썰려 바삭한 칩으로 완성되는 과정과 패키지에서 칩이 터져 나오는 장면을 빠른 리듬으로 담아, 제품의 식감과 브랜드의 유쾌한 에너지를 표현했습니다.",
     items: [
      {type:"video", yt:"AGHOs4n79Vc", portrait:true,  title:"CRUNCH IN MOTION", desc:"감자가 바삭한 칩으로 완성되고 패키지 밖으로 터져 나오는 모습을 담아, 경쾌한 움직임과 바삭한 식감을 강조한 스낵 광고 영상."}
