@@ -49,7 +49,7 @@ var AI_PROJECTS = {
     title: "Terry Food \u2014 비주얼 프로젝트",
     desc:  "반려견과의 일상부터 Terry Food를 급여하고 교감하는 순간까지, 따뜻하고 편안한 분위기로 담아낸 AI 펫푸드 광고 영상입니다.",
     items: [
-     {type:"video", yt:"7WGtTSh7Cgw", portrait:true,  title:"CRUNCH IN MOTION", desc:"강아지가 Terry Food를 맛있게 먹고 반려인과 교감하는 모습을 담아, 따뜻한 일상과 행복한 식사 시간을 표현한 펫푸드 광고 영상."}
+     {type:"video", yt:"7WGtTSh7Cgw", portrait:true,  title:"JOY IN EVERY BITE", desc:"강아지가 Terry Food를 맛있게 먹고 반려인과 교감하는 모습을 담아, 따뜻한 일상과 행복한 식사 시간을 표현한 펫푸드 광고 영상."}
      
     ]
   },
