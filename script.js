@@ -5,7 +5,7 @@ var AI_PROJECTS = {
   "01": {
     tag:   "AI 프로젝트 · ComfyUI · Higgsfield",
     title: "Terry Sports Club \u2014 비주얼 프로젝트",
-    desc:  "AI로 만든 운동화를 중심으로, 제품 클로즈업부터 착용 화보까지 다양한 이미지를 제작한 프로젝트입니다. ComfyUI를 활용해 운동화의 형태와 디테일을 유지하면서 스튜디오 컷, 로우 앵글, 패션 화보 등 여러 연출을 시도했고, AI 영상 편집을 더해 이미지가 움직이는 방식까지 함께 실험했습니다.",
+    desc:  "형태와 디테일의 일관성을 유지하면서 하나의 운동화를 여러 방식으로 보여주는 데 집중했습니다. ComfyUI를 통해 스튜디오 제품 컷, 로우 앵글 이미지, 패션 화보를 구현했으며, 정적인 결과물에 AI 영상 기술을 더해 제품이 실제로 움직이는 듯한 표현까지 실험했습니다.",
     items: [
       {type:"video", yt:"JyWLaZs5bbo", portrait:true,  title:"READY TO MOVE", desc:"운동화를 신는 순간부터 움직임이 시작되는 흐름을 담아, 편안함과 활동적인 무드를 강조한 스포츠 영상."},
       {type:"image", src:"assets/product01_2.jpg", title:"AIR STEP", desc:"푸른 하늘을 배경으로, 가볍고 역동적인 움직임과 운동화의 존재감을 강조한 스포츠 비주얼."},
@@ -15,7 +15,7 @@ var AI_PROJECTS = {
   "02": {
     tag:   "AI 프로젝트 · ComfyUI · Higgsfield",
     title: "Terry Serum \u2014 비주얼 프로젝트",
-    desc:  "AI로 만든 세럼 제품을 중심으로, 맑고 부드러운 분위기의 뷰티 이미지를 제작한 프로젝트입니다. 투명한 용기와 촉촉한 제형이 잘 드러나도록 따뜻한 피치 톤의 조명과 다양한 구도를 활용해 제품 단독 컷부터 감각적인 광고 이미지까지 자연스럽게 확장했습니다.",
+    desc:  "투명한 용기 안에 담긴 맑고 촉촉한 제형을 시각적으로 표현한 뷰티 작업입니다. 따뜻한 피치 톤의 빛과 부드러운 질감 표현을 바탕으로 깨끗하고 편안한 분위기를 완성했으며, 제품의 투명감과 수분감이 돋보이도록 구도와 조명을 세밀하게 구성했습니다.",
     items: [
      {type:"video", yt:"x06R-NnfeyY", portrait:true,  title:"A TOUCH OF GLOW", desc:"세럼의 투명한 제형과 부드러운 사용감을 클로즈업으로 담아낸 감각적인 뷰티 영상."},
      {type:"video", yt:"mCFICkndSwo", portrait:true,  title:"UGC Video", desc:"일상 속에서 직접 써본 듯 자연스럽게 Terry Serum의 촉촉한 사용감과 장점을 소개하는 감각적인 UGC 뷰티 영상."},
@@ -37,7 +37,7 @@ var AI_PROJECTS = {
     "04": {
     tag:   "AI 프로젝트 · Higgsfield",
     title: "Terry Chips \u2014 비주얼 프로젝트",
-    desc:  "AI로 만든 감자칩 브랜드를 중심으로, 밝고 경쾌한 분위기의 스낵 광고 영상을 제작한 프로젝트입니다. 감자가 얇게 썰려 바삭한 칩으로 완성되는 과정과 패키지에서 칩이 터져 나오는 장면을 빠른 리듬으로 담아, 제품의 식감과 브랜드의 유쾌한 에너지를 표현했습니다.",
+    desc:  "패티와 치즈가 완성되는 과정부터 감자튀김과 함께 담기는 장면까지, 먹음직스러운 질감과 빠른 리듬으로 표현한 AI 버거 광고 영상입니다.",
     items: [
      {type:"video", yt:"AGHOs4n79Vc", portrait:true,  title:"CRUNCH IN MOTION", desc:"감자가 바삭한 칩으로 완성되고 패키지 밖으로 터져 나오는 모습을 담아, 경쾌한 움직임과 바삭한 식감을 강조한 스낵 광고 영상."}
      
@@ -47,9 +47,9 @@ var AI_PROJECTS = {
       "05": {
     tag:   "AI 프로젝트 · Higgsfield",
     title: "Terry Food \u2014 비주얼 프로젝트",
-    desc:  "AI로 만든 감자칩 브랜드를 중심으로, 밝고 경쾌한 분위기의 스낵 광고 영상을 제작한 프로젝트입니다. 감자가 얇게 썰려 바삭한 칩으로 완성되는 과정과 패키지에서 칩이 터져 나오는 장면을 빠른 리듬으로 담아, 제품의 식감과 브랜드의 유쾌한 에너지를 표현했습니다.",
+    desc:  "반려견과의 일상부터 Terry Food를 급여하고 교감하는 순간까지, 따뜻하고 편안한 분위기로 담아낸 AI 펫푸드 광고 영상입니다.",
     items: [
-     {type:"video", yt:"AGHOs4n79Vc", portrait:true,  title:"CRUNCH IN MOTION", desc:"감자가 바삭한 칩으로 완성되고 패키지 밖으로 터져 나오는 모습을 담아, 경쾌한 움직임과 바삭한 식감을 강조한 스낵 광고 영상."}
+     {type:"video", yt:"7WGtTSh7Cgw", portrait:true,  title:"CRUNCH IN MOTION", desc:"강아지가 Terry Food를 맛있게 먹고 반려인과 교감하는 모습을 담아, 따뜻한 일상과 행복한 식사 시간을 표현한 펫푸드 광고 영상."}
      
     ]
   },
