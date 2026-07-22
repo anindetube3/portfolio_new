@@ -18,7 +18,7 @@ var AI_PROJECTS = {
     desc:  "AI로 만든 세럼 제품을 중심으로, 맑고 부드러운 분위기의 뷰티 이미지를 제작한 프로젝트입니다. 투명한 용기와 촉촉한 제형이 잘 드러나도록 따뜻한 피치 톤의 조명과 다양한 구도를 활용해 제품 단독 컷부터 감각적인 광고 이미지까지 자연스럽게 확장했습니다.",
     items: [
      {type:"video", yt:"x06R-NnfeyY", portrait:true,  title:"A TOUCH OF GLOW", desc:"세럼의 투명한 제형과 부드러운 사용감을 클로즈업으로 담아낸 감각적인 뷰티 영상."},
-     {type:"video", yt:"mCFICkndSwo", portrait:true,  title:"UGC Video", desc:"세럼의 투명한 제형과 부드러운 사용감을 클로즈업으로 담아낸 감각적인 뷰티 영상."},
+     {type:"video", yt:"mCFICkndSwo", portrait:true,  title:"UGC Video", desc:"일상 속에서 직접 써본 듯 자연스럽게 Terry Serum의 촉촉한 사용감과 장점을 소개하는 감각적인 UGC 뷰티 영상."},
      {type:"image", src:"assets/Product02_2.jpg", title:"DROP OF GLOW", desc:"따뜻한 피치 톤과 투명한 세럼 방울로 촉촉한 질감과 은은한 광택을 강조한 뷰티 비주얼."},
      {type:"image", src:"assets/Product02_3.jpg", title:"SOFT GLOW", desc:"부드러운 피치 톤과 깊이감 있는 아웃포커싱으로 세럼의 맑고 포근한 이미지를 담은 뷰티 비주얼."}
     ]
